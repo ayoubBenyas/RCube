@@ -105,4 +105,4 @@ dist
 
 #staff Staff
 other/
-.serve.bat
+./serve.bat
